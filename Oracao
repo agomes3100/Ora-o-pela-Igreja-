@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Mês da Oração pela Igreja</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background: #f3f3f3;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+  }
+  h1, h2 {
+    color: #2c3e50;
+  }
+  .semana {
+    background: #fff;
+    margin: 20px 0;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    padding: 15px;
+  }
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  li {
+    margin: 10px 0;
+  }
+  label {
+    cursor: pointer;
+  }
+  a {
+    color: #2980b9;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .footer {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 0.9em;
+    color: #777;
+  }
+</style>
+</head>
+<body>
+
+<h1>📖 Mês da Oração pela Igreja</h1>
+<p>Leia, medite e clame a Deus por justiça.</p>
+
+<div class="semana">
+  <h2>🗓️ 1ª Semana</h2>
+  <ul>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/LUK.18.1-8.NTLH" target="_blank">Domingo (08/06): Lucas 18:1-8</a></label></li>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/1TH.5.14-22.NTLH" target="_blank">Segunda (09/06): 1 Tessalonicenses 5:14-22</a></label></li>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/EXO.32.9-14.NTLH" target="_blank">Terça (10/06): Êxodo 32:9-14</a></label></li>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/PSA.91.1-10.NTLH" target="_blank">Quarta (11/06): Salmos 91:1-10</a></label></li>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/2KI.20.1-6.NTLH" target="_blank">Quinta (12/06): 2 Reis 20:1-6</a></label></li>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/COL.4.2-6.NTLH" target="_blank">Sexta (13/06): Colossenses 4:2-6</a></label></li>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/PSA.86.1-10.NTLH" target="_blank">Sábado (14/06): Salmos 86:1-10</a></label></li>
+  </ul>
+</div>
+
+<div class="semana">
+  <h2>🗓️ 2ª Semana</h2>
+  <ul>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/ACT.19.2-7.NTLH" target="_blank">Domingo (15/06): Atos 19:2-7</a></label></li>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/DAN.9.3-10.NTLH" target="_blank">Segunda (16/06): Daniel 9:3-10</a></label></li>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/DEU.6.4-9.NTLH" target="_blank">Terça (17/06): Deuteronômio 6:4-9</a></label></li>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/MAT.26.36-44.NTLH" target="_blank">Quarta (18/06): Mateus 26:36-44</a></label></li>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/PSA.5.1-7.NTLH" target="_blank">Quinta (19/06): Salmos 5:1-7</a></label></li>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/NEH.1.4-11.NTLH" target="_blank">Sexta (20/06): Neemias 1:4-11</a></label></li>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/PSA.63.1-8.NTLH" target="_blank">Sábado (21/06): Salmos 63:1-8</a></label></li>
+  </ul>
+</div>
+
+<div class="semana">
+  <h2>🗓️ 3ª Semana</h2>
+  <ul>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/ACT.12.5-12.NTLH" target="_blank">Domingo (22/06): Atos 12:5-12</a></label></li>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/LUK.6.12-19.NTLH" target="_blank">Segunda (23/06): Lucas 6:12-19</a></label></li>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/JER.29.11-14.NTLH" target="_blank">Terça (24/06): Jeremias 29:11-14</a></label></li>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/PSA.27.1-8.NTLH" target="_blank">Quarta (25/06): Salmos 27:1-8</a></label></li>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/1SA.1.10-18.NTLH" target="_blank">Quinta (26/06): 1 Samuel 1:10-18</a></label></li>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/2CH.20.1-12.NTLH" target="_blank">Sexta (27/06): 2 Crônicas 20:1-12</a></label></li>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/MAT.6.5-13.NTLH" target="_blank">Sábado (28/06): Mateus 6:5-13</a></label></li>
+  </ul>
+</div>
+
+<div class="semana">
+  <h2>🗓️ 4ª Semana</h2>
+  <ul>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/DAN.6.10-22.NTLH" target="_blank">Domingo (29/06): Daniel 6:10-22</a></label></li>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/JAS.5.13-18.NTLH" target="_blank">Segunda (30/06): Tiago 5:13-18</a></label></li>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/LUK.5.15-26.NTLH" target="_blank">Terça (01/07): Lucas 5:15-26</a></label></li>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/ACT.16.25-34.NTLH" target="_blank">Quarta (02/07): Atos 16:25-34</a></label></li>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/LUK.18.9-14.NTLH" target="_blank">Quinta (03/07): Lucas 18:9-14</a></label></li>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/1TI.2.1-8.NTLH" target="_blank">Sexta (04/07): 1 Timóteo 2:1-8</a></label></li>
+    <li><label><input type="checkbox"> <a href="https://www.bible.com/bible/211/ACT.2.1-4.NTLH" target="_blank">Sábado (05/07): Atos 2:1-4</a></label></li>
+  </ul>
+</div>
+
+<div class="footer">
+  🙏 Traga esta folha no dia 5 de Julho, às 18h, no Templo de Salomão
+</div>
+
+</body>
+</html>
